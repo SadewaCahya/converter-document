@@ -1,0 +1,73 @@
+('D:\\Kuliah\\Semester 7\\CAPSTONE\\file_code\\build\\DIGIFORGE\\DIGIFORGE.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'D:\\Kuliah\\Semester 7\\CAPSTONE\\file_code\\build\\DIGIFORGE\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\Kuliah\\Semester '
+   '7\\CAPSTONE\\file_code\\build\\DIGIFORGE\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\Kuliah\\Semester '
+   '7\\CAPSTONE\\file_code\\build\\DIGIFORGE\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\Kuliah\\Semester '
+   '7\\CAPSTONE\\file_code\\build\\DIGIFORGE\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\Kuliah\\Semester '
+   '7\\CAPSTONE\\file_code\\build\\DIGIFORGE\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\Kuliah\\Semester '
+   '7\\CAPSTONE\\file_code\\build\\DIGIFORGE\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'D:\\Kuliah\\Semester '
+   '7\\CAPSTONE\\file_code\\venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'D:\\Kuliah\\Semester '
+   '7\\CAPSTONE\\file_code\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\Kuliah\\Semester '
+   '7\\CAPSTONE\\file_code\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\Kuliah\\Semester '
+   '7\\CAPSTONE\\file_code\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pythoncom',
+   'D:\\Kuliah\\Semester '
+   '7\\CAPSTONE\\file_code\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pythoncom.py',
+   'PYSOURCE'),
+  ('pyi_rth_pywintypes',
+   'D:\\Kuliah\\Semester '
+   '7\\CAPSTONE\\file_code\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pywintypes.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'D:\\Kuliah\\Semester '
+   '7\\CAPSTONE\\file_code\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pdf_tools_app',
+   'D:\\Kuliah\\Semester 7\\CAPSTONE\\file_code\\pdf_tools_app.py',
+   'PYSOURCE')],
+ 'python311.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
