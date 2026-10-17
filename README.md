@@ -37,6 +37,7 @@ Pengelolaan dokumen digital di Pihak Owner saat ini masih bergantung pada layana
 
 ## 🎨 Antarmuka Pengguna (UI)
 ![UI Application](prototype.png)
+
 Aplikasi dirancang dengan antarmuka modern (Dark Mode) yang intuitif:
 - **Input Zone:** Layar interaktif pendukung *Drag & Drop*.
 - **Settings & Output:** Pengaturan nama file, target folder simpan, dan indikator status.
